@@ -1,0 +1,58 @@
+html {
+    background: url(Pics/pic3.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+
+}
+
+h2 {
+    text-align: center;
+    color: orangered;
+    font-size: 30px;
+}
+
+#chart_div {
+    text-align: center;
+    width: 1400px;
+    height: 300px;
+    border: 3px solid black;
+
+
+}
+#chart {
+    width: 1400px;
+    height: 300px;
+    border: 3px solid black
+}
+#description {
+    text-align: center;
+    color: darkred;
+    font-size: 25px;
+}
+
+#description2 {
+    text-align: center;
+    color: darkred;
+    font-size: 25px;
+}
+
+#link {
+    text-align: right;
+}
+
+#pic1 {
+    text-align: center;
+}
+
+#pic2 {
+    text-align: center;
+}
+
