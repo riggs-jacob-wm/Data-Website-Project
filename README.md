@@ -20,5 +20,6 @@ For this assignment, you will be utilizing what you have learned about JavaScrip
 - Your .html must be a functioning website with no bugs, spelling or grammatical errors
 - You must have at least two styles added to your site in your separate .css file
 - There must be one functioning link to the website/s which were used for your data/research
+The Website is basically used for air quality analysis.
 
 **Appearance and functionality are of paramount importance, so please do you absolute best**
